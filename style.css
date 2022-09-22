@@ -1,0 +1,76 @@
+
+.caja{
+    position: relative;
+    display: inline-block;
+    margin-bottom: 1%;
+}
+
+.texto1{
+    position: absolute;
+    top: 190px;
+    left: 75%;
+    font-family: Georgia, Times;
+    font-size: 30px;
+    color:aliceblue;
+}
+
+.texto2{
+position: absolute;
+top: 40%;
+right: 10%;
+font-size: 14px;
+color: aliceblue;
+text-align: right;
+}
+
+.texto3{
+Position: absolute;
+top: 130%;
+right: 0%;
+font-size: 14px;
+text-align: right
+}
+
+.col-md-6{
+    background-color: rgb(70, 68, 68);
+}
+
+.texto4{
+    position: absolute;
+    top: 1575px;
+    left: 50%;
+    font-family: Georgia, Times;
+    font-size: 30px;
+    color:aliceblue;
+}
+
+.texto5{
+    position: absolute;
+    top: 240%;
+    right: 6%;
+    font-size: 10px;
+    color: aliceblue;
+    text-align: left;
+    }
+
+.texto6{
+    position: absolute;
+    top: 170%;    
+
+}
+
+.container{
+    margin-top: 3%;
+}
+
+.jumbotron{
+    margin-top: 3%;
+}
+
+.datos{
+margin-left: 10%;
+margin-right: 10%;
+}
+
+
+
