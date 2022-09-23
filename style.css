@@ -2,6 +2,7 @@
 .caja{
     position: relative;
     display: inline-block;
+    opacity: 0.8;
     margin-bottom: 1%;
 }
 
@@ -58,6 +59,16 @@
 
 .container{
     margin-top: 3%;
+}
+
+.contenido{
+   display: flex;
+   align-items: center;
+   position: absolute;
+   right: 140%;
+   top: 150%;
+   width: 1500px;
+   border: 1px dashed black;  
 }
 
 .jumbotron{
